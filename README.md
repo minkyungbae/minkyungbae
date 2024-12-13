@@ -6,4 +6,4 @@
 <h4 align="left"> Let's get start! 🐈‍⬛</h4>
 
 ## Here is included about...
-- 📚 study about Programmers and BAEKJOON on ()
+- 📚 study about Programmers and BAEKJOON on "https://github.com/minkyungbae/Study-about"
