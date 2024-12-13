@@ -6,6 +6,6 @@
 <h3 align="left"> Let's get start! 🐈‍⬛</h3>
 
 ## Here is included about...
-- 📚 Study about Programmers and BAEKJOON on https://github.com/minkyungbae/Study-about
-- 📝 What I learned today on https://github.com/minkyungbae/TIL
-- 🧐 My assignments on https://github.com/minkyungbae/My-assignments/tree/main
+- 📚 Study about Programmers and BAEKJOON in https://github.com/minkyungbae/Study-about
+- 📝 What I learned today in https://github.com/minkyungbae/TIL
+- 🧐 My assignments in https://github.com/minkyungbae/My-assignments/tree/main
