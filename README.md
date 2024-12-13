@@ -1,4 +1,3 @@
-![blackcat](images/blackcat.jpg)
 ### About me 🐾
 
 <h1 align="left"> Hello 👋, This is MinKyung Bae, a developer who codes dreams 😼.</h1>
