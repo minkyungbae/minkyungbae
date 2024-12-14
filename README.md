@@ -10,6 +10,3 @@
 - 📝 What I learned today in [**TIL**](https://github.com/minkyungbae/TIL)
 - 🧐 My assignments in [**My-assignments**](https://github.com/minkyungbae/My-assignments/tree/main)
 - 🤔 Other stdudying about in [**Other-studying**](https://github.com/minkyungbae/Other-studying)
-
-## 📊 My Git Stats<br>
-[![minkyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=minkyungbae&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=graywhite)](https://github.com/minkyungbae/github-readme-stats)
