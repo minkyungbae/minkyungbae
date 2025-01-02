@@ -2,10 +2,7 @@
 
 ### About me 🐾
 
-<h1 align="left"> Hello 👋, This is MinKyung Bae, a developer who codes dreams 😼.</h1>
-<h3 align="left"> I'm looking forward to using AI to improve the quality of our life 🤖.</h3>
-<h3 align="left"> So, Here is my history of study about AI and Python 📚.</h3>
-<h3 align="left"> Let's get start! 🐈‍⬛</h3>
+<h1 align="left"> Hello 👋, This is MinKyung Bae 😼.</h1>
 
 ## Here is included about...
 - 📚 Study about Programmers and BAEKJOON in [**Study-about**](https://github.com/minkyungbae/Study-about)
