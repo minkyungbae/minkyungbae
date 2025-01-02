@@ -19,6 +19,5 @@
 <a href="https://github.com/minkyungbae/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=minkyungbae&show_icons=true&theme=material-palenight&hide_border=true&bg_color=white&icon_color=58A6FF&text_color=black&title_color=58A6FF&count_private=true" width=56% />
 </a>
-<a href="https://github.com/minkyungbae/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=minkyungbae&theme=react-dark&bg_color=white&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-</a>
+
+![](.profile-3d-contrib/profile-green.svg)
