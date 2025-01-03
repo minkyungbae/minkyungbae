@@ -1,5 +1,3 @@
-![](./profile-3d-contrib/profile-green-animate.svg)
-
 ### About me 🐾
 
 <h1 align="left"> Hello 👋, This is MinKyung Bae 😼.</h1>
@@ -19,3 +17,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=minkyungbae&show_icons=true&theme=material-palenight&hide_border=true&bg_color=white&icon_color=58A6FF&text_color=black&title_color=58A6FF&count_private=true" width=56% />
 </a>
 
+![](./profile-3d-contrib/profile-green-animate.svg)
