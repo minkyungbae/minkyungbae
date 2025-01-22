@@ -1,4 +1,4 @@
-<h1 align="center"> Hello 👋, Here is MinKyung Bae's GitHub 😼.</h1>
+<h1 align="center"> Hello 👋, Here is MinKyungBae's GitHub 😼.</h1>
 
 ## Here is included about...
 - 📚 Study about Programmers and BAEKJOON in [**Study-about**](https://github.com/minkyungbae/Study-about)
