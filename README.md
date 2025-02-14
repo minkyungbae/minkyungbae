@@ -1,13 +1,13 @@
 <h1 align="center"> Hello 👋, Here is MinKyungBae's GitHub 😼.</h1>
 
 ## Here is included about...
-- 📚 Study about Programmers and BAEKJOON in [**Study-about**](https://github.com/minkyungbae/Study-about)
-- 📗 Study about Django in [**Django**](https://github.com/minkyungbae/Django)
-- 📘 Study about DRF in [**DRF**](https://github.com/minkyungbae/DRF)
-- 📘 practicing about Backend and frontend in [**Full-Stack**]()
+- 📚 Studying Programmers and BAEKJOON in [**Study-about**](https://github.com/minkyungbae/Study-about)
+- 📗 Studying Django in [**Django**](https://github.com/minkyungbae/Django)
+- 📘 Studying DRF in [**DRF**](https://github.com/minkyungbae/DRF)
+- 📘 practicing Backend and frontend in [**Full-Stack**](https://github.com/minkyungbae/Full-Stack)
 - 📝 What I learned today in [**TIL**](https://github.com/minkyungbae/TIL)
 - 🧐 My assignments in [**My-assignments**](https://github.com/minkyungbae/My-assignments/tree/main)
-- 🤔 Other stdudying about in [**Other-studying**](https://github.com/minkyungbae/Other-studying)
+- 🤔 Other studies about in [**Other-studying**](https://github.com/minkyungbae/Other-studying)
 <br>  
 
 <a href="https://github.com/minkyungbae/github-readme-stats">
