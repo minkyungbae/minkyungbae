@@ -10,6 +10,10 @@
 - 🤔 Other studies about in [**Other-studying**](https://github.com/minkyungbae/Other-studying)
 <br>  
 
+## Team Project Repository...
+- 🎬 2 Week Team Project in [**Recommand Movie**](https://github.com/minkyungbae/UNO_BWMovie_recsys)
+
+<br>
 <a href="https://github.com/minkyungbae/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minkyungbae&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=00000000&icon_color=58A6FF&text_color=blue&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>   
