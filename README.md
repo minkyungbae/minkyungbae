@@ -11,7 +11,7 @@
 <br>  
 
 ## Team Project Repository...
-- 🎬 2 Weeks of Team Project in [BWMovie_recsys](https://github.com/Kkimminseo/UNO_BWMovie_recsys.git)
+- 🎬 2 Weeks of Team Project in [**BWMovie_recsys**](https://github.com/Kkimminseo/UNO_BWMovie_recsys.git)
 
 <br>
 <a href="https://github.com/minkyungbae/github-readme-stats">
