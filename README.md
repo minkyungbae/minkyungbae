@@ -4,6 +4,7 @@
 - 📗 Studying Django in [**Django**](https://github.com/minkyungbae/Django)
 - 📘 Studying DRF in [**DRF**](https://github.com/minkyungbae/DRF)
 - 📘 practicing Backend and frontend in [**Full-Stack**](https://github.com/minkyungbae/Full-Stack)
+- 📙 Studying LLM & LangChain in [**LLM_LangChain**](https://github.com/minkyungbae/LLM_LangChain)
 - 📚 Studying Programmers and BAEKJOON in [**Study-about**](https://github.com/minkyungbae/Study-about)
 - 📝 What I learned today in [**TIL**](https://github.com/minkyungbae/TIL)
 - 🧐 My assignments in [**My-assignments**](https://github.com/minkyungbae/My-assignments/tree/main)
