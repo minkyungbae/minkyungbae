@@ -13,6 +13,7 @@
 
 ## Team Project Repository...
 - 🎬 2 Weeks of Team Project in [**BWMovie_recsys**](https://github.com/Kkimminseo/UNO_BWMovie_recsys.git)
+- 💫 1 Month of Team Project in [**Miravelle**](https://github.com/eungyukm/Miravelle.git)
 
 <br>
 <a href="https://github.com/minkyungbae/github-readme-stats">
