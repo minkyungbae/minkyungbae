@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="425" viewBox="0 0 1280 850">
   <style>* { font-family: "Ubuntu", "Helvetica", "Arial", sans-serif; }</style>
-  <rect x="0" y="0" width="1280" height="850" fill="#ffffff"></rect>
+  <rect x="50%" y="50%" transform="translate(-640, -425)" width="1280" height="850" fill="none"></rect>
   <g>
     <g transform="translate(140 154.18)">
     <rect stroke="none" x="0" y="0" width="18" height="18" transform="skewY(-30) skewX(40.89) scale(1 1.15)" fill="rgb(239, 239, 239)"></rect>
