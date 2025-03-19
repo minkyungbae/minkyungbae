@@ -9,7 +9,7 @@
 <li>📝 What I learned today in <a href="https://github.com/minkyungbae/TIL">TIL</a></li>
 <li>🧐 My assignments in <a href="https://github.com/minkyungbae/My-assignments/tree/main">My-assignments</a></li>
 <li>🤔 Other studies about in <a href="https://github.com/minkyungbae/Other-studying">Other-studying</a></li>
-<br>
+
 <h2>Team Project Repository...</h2>
 <li>🎬 2 Weeks of Team Project in <a href="https://github.com/Kkimminseo/UNO_BWMovie_recsys.git">BWMovie_recsys</a></li>
 <li>💫 1 Month of Team Project in <a href="https://github.com/eungyukm/Miravelle.git">Miravelle</a></li>
