@@ -7,7 +7,7 @@
 <li>📙 Studying LLM & LangChain in <a href="https://github.com/minkyungbae/LLM_LangChain">LLM_LangChain</li>
 <li>📚 Studying Programmers and BAEKJOON in <a href="https://github.com/minkyungbae/Study-about">Study-about</a></li>
 <li>📝 What I learned today in <a href="https://github.com/minkyungbae/TIL">TIL</a></li>
-<li>🧐 My assignments in <a href="https://github.com/minkyungbae/My-assignments/tree/main">My-assignments></a></li>
+<li>🧐 My assignments in <a href="https://github.com/minkyungbae/My-assignments/tree/main">My-assignments</a></li>
 <li>🤔 Other studies about in <a href="https://github.com/minkyungbae/Other-studying">Other-studying</a></li>
 <br>
 <h2>Team Project Repository...</h2>
