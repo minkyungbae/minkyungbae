@@ -14,4 +14,6 @@
 <li>🎬 2 Weeks of Team Project in <a href="https://github.com/Kkimminseo/UNO_BWMovie_recsys.git">BWMovie_recsys</a></li>
 <li>💫 1 Month of Team Project in <a href="https://github.com/eungyukm/Miravelle.git">Miravelle</a></li>  
 
-![](./profile-3d-contrib/profile-south-season-animate.svg)
+<p align="center">
+  <img src="./profile-3d-contrib/profile-south-season-animate.svg" alt="3D Contribution Graph">
+</p>
