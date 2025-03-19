@@ -1,19 +1,18 @@
 <h1 align="center"> Hello 👋, Here is MinKyungBae's GitHub 😼.</h1>
 
-## Here is included about...
-- 📗 Studying Django in [**Django**](https://github.com/minkyungbae/Django)
-- 📘 Studying DRF in [**DRF**](https://github.com/minkyungbae/DRF)
-- 📘 practicing Backend and frontend in [**Full-Stack**](https://github.com/minkyungbae/Full-Stack)
-- 📙 Studying LLM & LangChain in [**LLM_LangChain**](https://github.com/minkyungbae/LLM_LangChain)
-- 📚 Studying Programmers and BAEKJOON in [**Study-about**](https://github.com/minkyungbae/Study-about)
-- 📝 What I learned today in [**TIL**](https://github.com/minkyungbae/TIL)
-- 🧐 My assignments in [**My-assignments**](https://github.com/minkyungbae/My-assignments/tree/main)
-- 🤔 Other studies about in [**Other-studying**](https://github.com/minkyungbae/Other-studying)
-<br>  
-
-## Team Project Repository...
-- 🎬 2 Weeks of Team Project in [**BWMovie_recsys**](https://github.com/Kkimminseo/UNO_BWMovie_recsys.git)
-- 💫 1 Month of Team Project in [**Miravelle**](https://github.com/eungyukm/Miravelle.git)
+<h2> Here is included about...</h2>
+<li>📗 Studying Django in <a href="https://github.com/minkyungbae/Django">Django</a></li>
+<li>📘 Studying DRF in <a href="https://github.com/minkyungbae/DRF">DRF</a></li>
+<li>📘 practicing Backend and frontend in <a href="https://github.com/minkyungbae/Full-Stack">Full-Stack</a></li>
+<li>📙 Studying LLM & LangChain in <a href="https://github.com/minkyungbae/LLM_LangChain">LLM_LangChain</li>
+<li>📚 Studying Programmers and BAEKJOON in <a href="https://github.com/minkyungbae/Study-about">Study-about</a></li>
+<li>📝 What I learned today in <a href="https://github.com/minkyungbae/TIL">TIL</a></li>
+<li>🧐 My assignments in <a href="https://github.com/minkyungbae/My-assignments/tree/main">My-assignments></a></li>
+<li>🤔 Other studies about in <a href="https://github.com/minkyungbae/Other-studying">Other-studying</a></li>
+<br>
+<h2>Team Project Repository...</h2>
+<li>🎬 2 Weeks of Team Project in <a href="https://github.com/Kkimminseo/UNO_BWMovie_recsys.git">BWMovie_recsys</a></li>
+<li>💫 1 Month of Team Project in <a href="https://github.com/eungyukm/Miravelle.git">Miravelle</a></li>
 
 <br>
 <a href="https://github.com/minkyungbae/github-readme-stats">
