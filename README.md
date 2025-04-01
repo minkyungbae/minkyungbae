@@ -11,8 +11,8 @@
 <li>🤔 Other studies about in <a href="https://github.com/minkyungbae/Other-studying">Other-studying</a></li>
 
 <h2>Team Project Repository...</h2>
-<li>🎬 2 Weeks of Team Project in <a href="https://github.com/Kkimminseo/UNO_BWMovie_recsys.git">BWMovie_recsys</a></li>
-<li>💫 1 Month of Team Project in <a href="https://github.com/eungyukm/Miravelle.git">Miravelle</a></li>  
+<li>🎬 2 Weeks(250212~0226) of Team Project in <a href="https://github.com/Kkimminseo/UNO_BWMovie_recsys.git">BWMovie_recsys</a></li>
+<li>💫 1 Month(250227~0331) of Team Project in <a href="https://github.com/eungyukm/Miravelle.git">Miravelle</a></li>  
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-south-season-animate.svg" alt="3D Contribution Graph">
