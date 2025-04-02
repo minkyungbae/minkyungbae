@@ -26,5 +26,5 @@
 </p>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-season.svg" alt="3D Contribution Graph">
+  <img width="700" src="./profile-3d-contrib/profile-season.svg" alt="3D Contribution Graph">
 </p>
