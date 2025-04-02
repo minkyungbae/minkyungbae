@@ -11,7 +11,7 @@
 - 📘 practicing Backend and frontend in <a href="https://github.com/minkyungbae/Full-Stack">Full-Stack</a>
 - 📙 Studying LLM & LangChain in <a href="https://github.com/minkyungbae/LLM_LangChain">LLM_LangChain
 - 📚 Studying Programmers and BAEKJOON in <a href="https://github.com/minkyungbae/Study-about">Study-about</a>
-- 📝 What I learned today in <a href="https://github.com/minkyungbae/TIL">TIL</a></li>
+- 📝 What I learned today in <a href="https://github.com/minkyungbae/TIL">TIL</a>
 - 🧐 My assignments in <a href="https://github.com/minkyungbae/My-assignments/tree/main">My-assignments</a>
 - 🤔 Other studies about in <a href="https://github.com/minkyungbae/Other-studying">Other-studying</a>
 
