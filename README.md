@@ -21,8 +21,8 @@
 
 ## Achievements
 <p align="center">
-  <img width="450" alt="image" src="https://github.com/user-attachments/assets/8442ae32-a9bd-4a5f-92f9-a96ae865e26b" />
-  <img width="450" alt="image" src="https://github.com/user-attachments/assets/b022fae1-bce5-4b4b-b750-78b9ea09fa20" />
+  <img width="350" alt="image" src="https://github.com/user-attachments/assets/8442ae32-a9bd-4a5f-92f9-a96ae865e26b" />
+  <img width="350" alt="image" src="https://github.com/user-attachments/assets/b022fae1-bce5-4b4b-b750-78b9ea09fa20" />
 </p>
 
 <p align="center">
