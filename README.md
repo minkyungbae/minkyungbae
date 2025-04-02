@@ -20,8 +20,8 @@
 - 💫 1 Month(250227~0331) of Team Project in <a href="https://github.com/eungyukm/Miravelle.git">Miravelle</a>
 
 ## Achievements
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/8442ae32-a9bd-4a5f-92f9-a96ae865e26b" />
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/b022fae1-bce5-4b4b-b750-78b9ea09fa20" />
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/8442ae32-a9bd-4a5f-92f9-a96ae865e26b" />
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/b022fae1-bce5-4b4b-b750-78b9ea09fa20" />
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-season.svg" alt="3D Contribution Graph">
