@@ -24,5 +24,5 @@
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/b022fae1-bce5-4b4b-b750-78b9ea09fa20" />
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-south-season-animate.svg" alt="3D Contribution Graph">
+  <img src="./profile-3d-contrib/profile-season.svg" alt="3D Contribution Graph">
 </p>
