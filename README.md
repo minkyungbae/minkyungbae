@@ -19,6 +19,9 @@
 - 🎬 2 Weeks(250212~0226) of Team Project in <a href="https://github.com/Kkimminseo/UNO_BWMovie_recsys.git">BWMovie_recsys</a>
 - 💫 1 Month(250227~0331) of Team Project in <a href="https://github.com/eungyukm/Miravelle.git">Miravelle</a>
 
+## Just for Fun
+- 👊🏻 Riot Games Main Page Mirroring in <a href=""></a>
+
 ## Achievements
 <p align="center">
   <img width="350" alt="image" src="https://github.com/user-attachments/assets/8442ae32-a9bd-4a5f-92f9-a96ae865e26b" />
