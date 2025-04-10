@@ -1,10 +1,10 @@
 # Hello 👋, Here is MinKyungBae's GitHub 🐰.
 ***- Name*** : 배민경 <br>
 ***- Birth*** : 26/04/2000 <br>
+***- Portfolio*** : *[Portfolio](https://github.com/minkyungbae/Portfolio.git)* <br>
 ***- How to contact me*** <br>
   - Google Email : sea4536@gmail.com <br>
- - Naver Email : bmk0703@naver.com
-
+  - Naver Email : bmk0703@naver.com
 ## Here is included about...
 - 📗 Studying Django in <a href="https://github.com/minkyungbae/Django">Django</a>
 - 📘 Studying DRF in <a href="https://github.com/minkyungbae/DRF">DRF</a>
