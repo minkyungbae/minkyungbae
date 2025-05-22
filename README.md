@@ -28,3 +28,13 @@
 <p align="center">
   <img width="700" src="./profile-3d-contrib/profile-season.svg" alt="3D Contribution Graph">
 </p>
+
+<p align="center">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=minkyungbae&utm_content=farm">
+  <img
+    src="https://render.gitanimals.org/farms/minkyungbae"
+    width="1000"
+    height="300"
+  />
+  </a>
+</p>
