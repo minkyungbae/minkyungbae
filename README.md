@@ -28,17 +28,3 @@
   <img width="350" alt="image" src="https://github.com/user-attachments/assets/8442ae32-a9bd-4a5f-92f9-a96ae865e26b" />
   <img width="350" alt="image" src="https://github.com/user-attachments/assets/b022fae1-bce5-4b4b-b750-78b9ea09fa20" />
 </p>
-
-<p align="center">
-  <img width="700" src="./profile-3d-contrib/profile-season.svg" alt="3D Contribution Graph">
-</p>
-
-<p align="center">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=minkyungbae&utm_content=farm">
-  <img
-    src="https://render.gitanimals.org/farms/minkyungbae"
-    width="1000"
-    height="300"
-  />
-  </a>
-</p>
