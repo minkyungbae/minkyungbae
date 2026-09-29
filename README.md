@@ -5,7 +5,19 @@
 ***- How to contact me*** <br>
   - Google Email : sea4536@gmail.com <br>
   - Naver Email : bmk0703@naver.com
-## Here is included about...
+
+## Nepes JAVA project
+- ⚙️Auto send Email and SMS <a href="https://github.com/minkyungbae/email_sms_auto">email_sms_auto</a>
+
+## Team Project Repository
+- 🎬 2 Weeks(250212~0226) of Team Project in <a href="https://github.com/Kkimminseo/UNO_BWMovie_recsys.git">BWMovie_recsys</a>
+- 💫 1 Month(250227~0331) of Team Project in <a href="https://github.com/eungyukm/Miravelle.git">Miravelle</a>
+
+## 루나르트 Intern Repository
+- 💿 Fix Column Format <a href="https://github.com/minkyungbae/intern_250507.git">intern_250507</a>
+- 🕹️ YouTube Auto Crawling <a href="https://github.com/minkyungbae/crawling_auto_code.git">crawling_auto_code</a>
+
+## Here is the repository that has been studied
 - 📗 Studying Django in <a href="https://github.com/minkyungbae/Django">Django</a>
 - 📘 Studying DRF in <a href="https://github.com/minkyungbae/DRF">DRF</a>
 - 📘 practicing Backend and frontend in <a href="https://github.com/minkyungbae/Full-Stack">Full-Stack</a>
@@ -15,16 +27,6 @@
 - 🧐 My assignments in <a href="https://github.com/minkyungbae/My-assignments/tree/main">My-assignments</a>
 - 🤔 Other studies about in <a href="https://github.com/minkyungbae/Other-studying">Other-studying</a>
 
-## Team Project Repository...
-- 🎬 2 Weeks(250212~0226) of Team Project in <a href="https://github.com/Kkimminseo/UNO_BWMovie_recsys.git">BWMovie_recsys</a>
-- 💫 1 Month(250227~0331) of Team Project in <a href="https://github.com/eungyukm/Miravelle.git">Miravelle</a>
-
-## Intern Repository...
-- 💿 Fix Column Format <a href="https://github.com/minkyungbae/intern_250507.git">intern_250507</a>
-- 🕹️ YouTube Auto Crawling <a href="https://github.com/minkyungbae/crawling_auto_code.git">crawling_auto_code</a>
-
-## JAVA project..
-- ⚙️Auto send Email and SMS <a href="https://github.com/minkyungbae/email_sms_auto">email_sms_auto</a>
 
 ## Achievements
 <p align="center">
