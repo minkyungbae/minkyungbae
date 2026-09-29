@@ -23,6 +23,9 @@
 - 💿 Fix Column Format <a href="https://github.com/minkyungbae/intern_250507.git">intern_250507</a>
 - 🕹️ YouTube Auto Crawling <a href="https://github.com/minkyungbae/crawling_auto_code.git">crawling_auto_code</a>
 
+## JAVA project..
+- ⚙️Auto send Email and SMS <a href="https://github.com/minkyungbae/email_sms_auto">email_sms_auto</a>
+
 ## Achievements
 <p align="center">
   <img width="350" alt="image" src="https://github.com/user-attachments/assets/8442ae32-a9bd-4a5f-92f9-a96ae865e26b" />
