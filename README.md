@@ -6,7 +6,7 @@
   - Google Email : sea4536@gmail.com <br>
   - Naver Email : bmk0703@naver.com
 
-## Nepes JAVA project
+## Nepes JavaScript project
 - ⚙️Auto send Email and SMS <a href="https://github.com/minkyungbae/email_sms_auto">email_sms_auto</a>
 
 ## Team Project Repository
